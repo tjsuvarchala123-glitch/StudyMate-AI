@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://study-mate-ai-backend-qohn.onrender.com/:path*"
+      "destination": "https://study-mate-ai-backend-qohn.onrender.com/api/:path*"
     }
   ]
 }
